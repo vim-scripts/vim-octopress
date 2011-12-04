@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3835
+
+Syntax highlighting mode for Octopress-flavored markdown files (posts, pages mostly).
+
+Source is at https://github.com/tangledhelix/vim-octopress
